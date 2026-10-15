@@ -5,7 +5,7 @@ Status key:
 - **Verified**: citation confirmed against Crossref or the publisher/PMC page.
 - **Summary only**: the paper exists, but the findings below come from a secondary summary. Read the full text before quoting numbers.
 
-Last updated: 2026-10-15.
+Last updated: 2026-10-15 (second pass added risk factors, subgroups, lethal means, and peer support).
 
 ## Surveillance and mortality
 
@@ -50,6 +50,50 @@ Among 483 firefighters with a history of suicidal thoughts or behaviors, those w
 **Park et al.** Prevalence and correlates of suicidal ideation in Korean firefighters: a nationwide study. *BMC Psychiatry* 2019. doi:[10.1186/s12888-019-2388-9](https://doi.org/10.1186/s12888-019-2388-9) · [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937629/) · **Summary only**
 N=45,698. Past-year ideation 10.66%. Traumatic experiences, occupational stress, and officer duty associated with ideation beyond PTSD and depression. Non-US, useful for comparison.
 
+## Risk factors and mechanisms
+
+**Gallyer AJ, et al.** Problematic alcohol use and suicidal ideation among firefighters: A multi-study investigation of the explanatory roles of perceived burdensomeness and thwarted belongingness. *J Affect Disord* 2018;238:281-288. doi:[10.1016/j.jad.2018.05.045](https://doi.org/10.1016/j.jad.2018.05.045) · **Verified (citation)**; findings not yet read
+Tests the Interpersonal Theory of Suicide in firefighters, with alcohol use as the predictor.
+
+**Stanley IH, et al.** Wildland firefighters and suicide risk: Examining the role of social disconnectedness. *Psychiatry Res* 2018;266:269-274. doi:[10.1016/j.psychres.2018.03.017](https://doi.org/10.1016/j.psychres.2018.03.017) · **Verified (citation)**
+Wildland firefighters reported greater suicide risk than non-wildland firefighters (per author summary of the merged datasets). Social disconnectedness is the proposed pathway.
+
+**Jitnarin N, et al.** Posttraumatic stress disorder (PTSD) and mental health comorbidity in firefighters. *J Workplace Behav Health* 2022;37(3):147-168. doi:[10.1080/15555240.2022.2081172](https://doi.org/10.1080/15555240.2022.2081172) · **Verified (citation)**; findings not yet read
+
+**Wagner SL, et al.** Systematic review of mental health symptoms in firefighters exposed to routine duty-related critical incidents. *Traumatology* 2021;27(3):285-302. doi:[10.1037/trm0000275](https://doi.org/10.1037/trm0000275) · **Verified (citation)**; findings **Summary only**
+40 articles, 1980 to 2017. Strong evidence that PTSD and depression are elevated relative to the general Canadian population, moderate evidence for anxiety. Measurement tool is a major source of variation in prevalence, which matters for instrument choice in our study.
+
+## Subgroups: volunteer, retired, women
+
+**Stanley IH, et al.** Differences in psychiatric symptoms and barriers to mental health care between volunteer and career firefighters. *Psychiatry Res* 2017;247:236-242. doi:[10.1016/j.psychres.2016.11.037](https://doi.org/10.1016/j.psychres.2016.11.037) · **Verified (citation)**; findings **Summary only**
+Reported on 204 volunteer and 321 career firefighters. Volunteers had higher depression, posttraumatic stress, and suicidal symptoms, and structural barriers to care accounted for the differences. Career firefighters reported more problematic alcohol use. The summary was from a secondary source, so confirm the PTSD direction in the full text.
+
+**Career versus volunteer firefighters: Differences in perceived availability and barriers to behavioral health care.** *Psychological Services* 2021. doi:[10.1037/ser0000559](https://doi.org/10.1037/ser0000559) · **Verified (title and year via Crossref supplement record)**; authors and findings not yet read
+
+**Pepper et al.** Assessment of psychological functioning in retired firefighters. *Psychological Services* 2024;21(1):120-129. doi:[10.1037/ser0000703](https://doi.org/10.1037/ser0000703) · **Verified (citation)**; findings not yet read
+One of the few peer-reviewed retiree studies. Grew out of a Nova Southeastern dissertation that proposed retirement as a risk period through loss of identity and self-concept clarity. Also see the book chapter Pepper & colleagues, "Mental Health of Retired First Responders," in *First Responder Mental Health* (Springer, 2023, pp. 343-354), doi:[10.1007/978-3-031-38149-2_18](https://doi.org/10.1007/978-3-031-38149-2_18). Retiree evidence is thin overall: no large cohort compares suicide rates before and after retirement.
+
+## Lethal means safety
+
+**Stanley IH, et al.** Firearm ownership and storage practices among United States firefighters and emergency medical services personnel. *Psychological Services* 2024;21:206-213. doi:[10.1037/ser0000780](https://doi.org/10.1037/ser0000780) · **Verified (citation)**; findings not yet read
+Most directly relevant to the 66.4% firearm finding in the Florida data.
+
+**Walsh et al.** Project Safe Guard: Evaluating a Lethal Means Safety Intervention to Reduce Firearm Suicide in the National Guard. *Military Medicine* 2024;189:510-516. doi:[10.1093/milmed/usae172](https://doi.org/10.1093/milmed/usae172) · **Verified (citation)**; findings **Summary only**
+Adjacent evidence, not fire service. Randomized trial where lethal means counseling and cable locks each increased safe storage at six months. Useful as an intervention model.
+
+**Stanley IH, et al.** The intersection of PTSD symptoms and firearm storage practices within a suicide prevention framework: Findings from a U.S. Army National Guard sample. *Psychological Services* 2021;18:335-344. doi:[10.1037/ser0000410](https://doi.org/10.1037/ser0000410) · **Verified (citation)**
+Adjacent evidence, **not firefighters**. Listed because it links PTSD symptoms to storage practices.
+
+## Peer support and prevention programs
+
+**Kimbrel NA, et al.** Development and implementation of web-based safety planning intervention training for firefighter peer support specialists. *Crisis* 2024;45:108-117. doi:[10.1027/0227-5910/a000924](https://doi.org/10.1027/0227-5910/a000924) · **Verified (citation)**; findings **Summary only**
+Single-group evaluation, 213 peer support specialists, high satisfaction. No control group, so it says nothing about suicide outcomes.
+
+**Kim et al.** Role of peer support in mitigating PTSD and suicide risk among firefighters experiencing colleagues' death. *Eur J Psychotraumatol* 2025;16. doi:[10.1080/20008066.2025.2512680](https://doi.org/10.1080/20008066.2025.2512680) · **Verified (citation)**; findings **Summary only**
+Cross-sectional survey of 53,980 South Korean firefighters. Peer support weakened the link between colleagues' deaths and both PTSD symptoms and suicide risk. Association only.
+
+No randomized trial or systematic review of firefighter peer support and suicide outcomes turned up. That gap is a strong candidate for the future study.
+
 ## Culture and care
 
 **Henderson SN, Van Hasselt VB, LeDuc TJ, Couwels J.** Firefighter suicide: Understanding cultural challenges for mental health professionals. *Prof Psychol Res Pract* 2016;47(3):224-230. doi:[10.1037/pro0000072](https://doi.org/10.1037/pro0000072) · **Verified (citation)**
@@ -57,9 +101,11 @@ Relevant to the "occupationally competent care" theme in the Florida report.
 
 ## Ideas for next searches
 
-- Retiree and post-service suicide risk (the Florida data show 37.1% inactive at death).
-- Lethal means safety interventions in the fire service.
-- Volunteer and rural department studies.
+- Read the full text of the "findings not yet read" entries above and upgrade them to Verified.
+- Firefighter Behavioral Health Alliance (FBHA) annual suicide counts. Voluntary reporting, so treat as undercounts.
 - Workforce denominators (NFPA, Florida Bureau of Fire Standards and Training) needed to turn counts into rates.
 - NFFF and IAFF behavioral health program evaluations.
-- Peer support and postvention program outcomes.
+- Postvention program outcomes after a member's death.
+- Rural department studies (the Florida data show 5.9% rural).
+- Sleep and shift work as a pathway to suicide risk. No firefighter study testing this was found.
+- Firefighter cancer and injury as stressors.
