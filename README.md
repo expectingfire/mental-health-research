@@ -29,6 +29,25 @@ Known gaps (no firefighter study found): peer support trials with suicide outcom
 | --- | --- |
 | `papers/Florida_Fire_Service_Suicide_Data_Final_June2026.pdf` | O'Dare K, Winch A, Beidel DC, et al. *Suicide Deaths among Florida Fire Service Personnel, January 1, 1999 through March 1, 2026.* UCF RESTORES, June 2026. [Original](https://ucfrestores.com/wp-content/uploads/sites/61/2026/06/Florida_Fire_Service_Suicide_Data_Final-June2026.pdf) |
 
+Preprints under a CC BY license (not the final published versions, so cite the journal article):
+
+| File | Source |
+| --- | --- |
+| `papers/preprints/Park_2019_Korean_firefighters_ideation_preprint.pdf` | Park H, et al. Research Square preprint of the *BMC Psychiatry* 2019 article. doi:[10.21203/rs.2.12082/v2](https://doi.org/10.21203/rs.2.12082/v2) |
+| `papers/preprints/Gallyer_2018_alcohol_SI_preprint.docx` | Gallyer AJ, et al. PsyArXiv author manuscript (Word file) of the *J Affect Disord* 2018 article. doi:[10.31234/osf.io/f4unb](https://doi.org/10.31234/osf.io/f4unb) |
+
+## PDFs still to add
+
+Publisher sites block scripted downloads, so these need to be saved by hand from a browser and dropped into `papers/` (see "Adding research"). The first three are open access under Creative Commons licenses and can be redistributed:
+
+- Vigil 2021, *West J Emerg Med* (CC BY): [PMC7972356](https://pmc.ncbi.nlm.nih.gov/articles/PMC7972356/)
+- Tahernejad 2026, *Public Health in Practice* (CC BY-NC-ND): [PMC12776000](https://pmc.ncbi.nlm.nih.gov/articles/PMC12776000/)
+- Kim 2025, *Eur J Psychotraumatol* (CC BY-NC): [PMC12210409](https://pmc.ncbi.nlm.nih.gov/articles/PMC12210409/)
+
+Free to read but with no redistribution license (link only, do not commit): Stanley 2024 ([PMC10689572](https://pmc.ncbi.nlm.nih.gov/articles/PMC10689572/)), Career vs. volunteer 2021 ([PMC9195594](https://pmc.ncbi.nlm.nih.gov/articles/PMC9195594/)), Wagner 2021 ([Griffith repository](http://hdl.handle.net/10072/401266)).
+
+Paywalled: the remaining entries in `REFERENCES.md`. Get these through a library or the authors, and check the license before committing a copy.
+
 ## Notes on use
 
 - The documents in `papers/` belong to their authors and publishers. They are kept here for reference. Cite the original source, not this repo.
